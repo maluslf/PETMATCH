@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-inter: Inter;
+    
+    /* font sizes */
+    --font-size-xl: 20px;
+    --font-size-sm-1: 13.1px;
+    --font-size-xs-3: 11.3px;
+    
+    /* Colors */
+    --color-white: #fff;
+    --color-plum: rgba(200, 155, 248, 0.62);
+    --color-silver: rgba(200, 195, 195, 0.5);
+    --color-black: #000;
+    --color-blueviolet: #6e0ad6;
+    
+    /* Spacing */
+    --corner-medium: 12px;
+    
+    /* Border radiuses */
+    --br-3xs: 10px;
+    --br-11xl: 30px;
+    
+}
